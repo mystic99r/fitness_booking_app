@@ -37,7 +37,7 @@ This project implements a backend API for a fictional fitness studio allowing cl
 1. Clone or download the repository:
 
 git clone <repository_url>
-cd fitness_booking
+cd fitness_booking_app
 
 text
 
